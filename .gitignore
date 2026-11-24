@@ -1,0 +1,16 @@
+# Gradle & Android build artifacts
+.gradle/
+build/
+app/build/
+dist/
+local.properties
+
+# Keystore & signing secrets
+keystore/
+*.jks
+*.keystore
+
+# IDE & OS files
+.idea/
+*.iml
+.DS_Store
